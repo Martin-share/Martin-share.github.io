@@ -12,6 +12,12 @@
       
       
       
+        <tags>
+            
+            <tag> Agent </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -21,21 +27,13 @@
       <link href="/2026/03/11/hello-world/"/>
       <url>/2026/03/11/hello-world/</url>
       
-        <content type="html"><![CDATA[<h2 id="👋-Welcome-to-My-Digital-Space"><a href="#👋-Welcome-to-My-Digital-Space" class="headerlink" title="👋 Welcome to My Digital Space!"></a>👋 Welcome to My Digital Space!</h2><p>This blog is a space where I share my learning journey and insights.</p><h3 id="Find-Me-On"><a href="#Find-Me-On" class="headerlink" title="Find Me On:"></a>Find Me On:</h3><ul><li>🚀 <a href="https://github.com/Martin-share">GitHub</a> (Project Code Repositories)</li><li>📝 <a href="https://blog.csdn.net/qq_53517370?type=blog">CSDN</a> (Published Articles &amp; Tech Posts)</li><li>📚 <a href="https://www.yuque.com/martin-share">Yuque</a> (Comprehensive Knowledge Base &amp; Drafts)</li></ul><hr><blockquote><p>“Keep learning, keep sharing.”</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="👋-Welcome-to-My-Digital-Space"><a href="#👋-Welcome-to-My-Digital-Space" class="headerlink" title="👋 Welcome to My Digital Space!"></a>👋 Welcome to My Digital Space!</h2><p>This blog is a space where I share my learning journey and insights.</p><p>If you want to know more about me, check this page: <a href="/about/">About Me</a>.</p><h3 id="Find-Me-On"><a href="#Find-Me-On" class="headerlink" title="Find Me On:"></a>Find Me On:</h3><ul><li>🚀 <a href="https://github.com/Martin-share">GitHub</a> (Project Code Repositories)</li><li>📝 <a href="https://blog.csdn.net/qq_53517370?type=blog">CSDN</a> (Published Articles &amp; Tech Posts)</li><li>📚 <a href="https://www.yuque.com/martin-share">Yuque</a> (Comprehensive Knowledge Base &amp; Drafts)</li></ul><hr><blockquote><p>“Keep learning, keep sharing.”</p></blockquote>]]></content>
       
-      
-      <categories>
-          
-          <category> Personal </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> Markdown </tag>
-            
-            <tag> Blog </tag>
+            <tag> Personal </tag>
             
         </tags>
       
@@ -51,6 +49,12 @@
         <content type="html"><![CDATA[<h2 id="This-is-a-test-for-uploading-static-web-pages"><a href="#This-is-a-test-for-uploading-static-web-pages" class="headerlink" title="This is a test for uploading static web pages"></a>This is a test for uploading static web pages</h2><blockquote><p>Forked from <a href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes">https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</a></p></blockquote><p><a href="/html/index.html">目录</a></p><p><a href="/html/week1.html">第一周</a><br><a href="/html/week2.html">第二周</a><br><a href="/html/week3.html">第三周</a><br><a href="/html/week4.html">第四周</a><br><a href="/html/week5.html">第五周</a><br><a href="/html/week6.html">第六周</a><br><a href="/html/week7.html">第七周</a><br><a href="/html/week8.html">第八周</a><br><a href="/html/week9.html">第九周</a><br><a href="/html/week10.html">第十周</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+        </tags>
       
     </entry>
     
